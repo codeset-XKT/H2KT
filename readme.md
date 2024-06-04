@@ -1,4 +1,4 @@
-# This is the code of the H2KT model. Below is a list of the main execution steps of the model training, taking the JunYi dataset as an example.
+## This is the code of the H2KT model. Below is a list of the main execution steps of the model training, taking the JunYi dataset as an example.
 
 ### 1. Open the link `https://pslcdatashop.web.cmu.edu/Files?datasetId=1198`, download `junyi_Exercise_table.csv` and `junyi_ProblemLog_original.zip` in the JunYi dataset and decompress them to the current directory.
 
